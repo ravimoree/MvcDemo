@@ -12,7 +12,6 @@ namespace MvcDemo.Controllers
         {
             return View();
         }
-
         public ActionResult Login()
         {
             return View();
@@ -29,14 +28,14 @@ namespace MvcDemo.Controllers
                 return View();
             }
         }
+        public ActionResult ShabasadMaster()
+        {
+            return View();
+        }
+        public ActionResult Home()
+        {
+            return View();
+        }
 
-        public ActionResult State()
-        {
-            return View();
-        }
-        public ActionResult Country()
-        {
-            return View();
-        }
     }
 }

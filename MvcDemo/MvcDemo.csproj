@@ -2215,9 +2215,9 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
-    <Content Include="Views\Home\State.cshtml" />
-    <Content Include="Views\Home\Country.cshtml" />
     <Content Include="Views\Shared\_LayoutPageContent.cshtml" />
+    <Content Include="Views\Home\ShabasadMaster.cshtml" />
+    <Content Include="Views\Home\Home.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
